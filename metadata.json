@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MATANEST",
+  "description": "An AI-powered application to generate metadata like titles and keywords for your media files. Upload images and let Gemini generate compelling content for various platforms.",
+  "requestFramePermissions": []
+}
